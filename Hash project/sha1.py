@@ -1,10 +1,3 @@
-"""
-----------------Copyright © 2020 by Yasser Tahiri----------------
-----------------All rights reserved. To @EliteStuff----------------
-----------------For More information or code :----------------
-----------------https://github.com/yezz12----------------
-
-"""
 import argparse
 import struct
 import hashlib 
